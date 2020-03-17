@@ -9,3 +9,4 @@ def home(request):
 #     ln=request.POST['lname']
 #     ff=fn+ln
 #     return render(request,"display.html",{'display':ff})
+# testing for merging
